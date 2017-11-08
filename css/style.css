@@ -1,0 +1,6 @@
+#myForm {
+    max-width: 500px;
+    border: 2px grey solid;
+    border-radius: 5px;
+    padding: 20px;
+}
